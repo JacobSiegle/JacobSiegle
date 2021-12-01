@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @JacobSiegle
 - 👨‍💻 I'm working with... Angular, Typescript, C#
 - 🌱 I'm currently interested in learning... Too much
-- 🛹 I'm side projecting... Angular interview reference app
 - 📫 How to reach me... Github
 
 <!---
